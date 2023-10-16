@@ -65,7 +65,7 @@ def location_info(file_path, location):
 
 # Function to calculate the distance between two coordinates
 def calculate_distance(coord1, coord2):
-    return geodesic(coord1, coord2).meters
+    return geodesic(coord1, coord2).miles
 
 # Function to find and display nearby food trucks
 def find_nearby_food_trucks(file_path, location, max_distance):

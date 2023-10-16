@@ -27,12 +27,12 @@ To run this script, you'll need to set up a Python environment, install the nece
 2. Create a virtual environment:
 
     ```bash
-    cd challenge_food_truck_cli
-    python -m venv venv
+    2.1. cd challenge_food_truck_cli
+
+    2.2. python -m venv venv
 
     #On Mac use:
-    source venv/bin/activate
-
+    2.3. source venv/bin/activate
     # On Windows, use: 
     .venv\Scripts\activate
     # On Linux, use:
