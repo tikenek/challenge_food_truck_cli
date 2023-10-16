@@ -28,9 +28,7 @@ To run this script, you'll need to set up a Python environment, install the nece
 
     ```bash
     2.1. cd challenge_food_truck_cli
-
     2.2. python -m venv venv
-
     #On Mac use:
     2.3. source venv/bin/activate
     # On Windows, use: 
